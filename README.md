@@ -1,6 +1,6 @@
-# vue2
+# vue2 championship simulator
 
-> A Vue.js project
+> Project created for didactic learning purposes of VueJs. The project simulate the table of the Brazilian football championship series A of the year 2016.
 
 ## Build Setup
 
@@ -16,3 +16,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Screenshots of the project
+
+![SS1](ss1.jpg)
+
+![SS2](ss2.jpg)
