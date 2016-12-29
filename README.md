@@ -19,6 +19,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Screenshots of the project
 
-![SS1](ss1.jpg)
+![SS1](https://raw.githubusercontent.com/willsilvano/vue2-brasileirao-serie-a/master/ss1.JPG)
 
-![SS2](ss2.jpg)
+![SS2](https://raw.githubusercontent.com/willsilvano/vue2-brasileirao-serie-a/master/ss2.JPG)
